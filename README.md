@@ -3,7 +3,7 @@
 
 - 🌱 Estou atualmente aprendendo **JScode**
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMNAKzVRXnRdvk0e4OBbzINhI2nfVIGBtHFSFToIe&s" alt="c" width="60" height="60"/> </a> n gosto de programar
-
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://w0.peakpx.com/wallpaper/221/949/HD-wallpaper-bob-esponja-mafioso-bob-esponja-gangster-mafioso-meme.jpg" alt="c" width="60" height="60"/> </a>
 
 <h3 align="left">Connect with me: msbueno03@icloud.com </h3>
 <p align="left">
